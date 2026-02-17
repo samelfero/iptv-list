@@ -8,3 +8,6 @@ https://tvbrasil-stream.m3u8
 
 #EXTINF:-1 tvg-id="canalunivesp" tvg-name="Univesp TV" group-title="Educação",Univesp TV
 https://univesp-stream.m3u8
+
+#EXTINF:0 group-title="Geral" tvg-id="RecordTVRio.br(m3u4u)" tvg-name="RecordTV Rio" tvg-logo="" url-tvg="http://m3u4u.com/epg/68m7n4xmj4szww5n1gek" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", RecordTV Rio
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
